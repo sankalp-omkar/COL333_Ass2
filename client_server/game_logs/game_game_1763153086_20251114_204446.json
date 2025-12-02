@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "rows": 13,
+    "cols": 12,
+    "timestamp": 1763153086.0408115,
+    "version": "1.0",
+    "winner": "circle",
+    "final_scores": {
+      "circle": 100.0,
+      "square": 0.0
+    },
+    "game_duration": 99.74732685089111
+  },
+  "states": [
+    ".......................................aaaaaa......aaaaaa...........................................AAAAA......AAAAAA......A................................"
+  ],
+  "moves": [
+    {
+      "player": "circle",
+      "move": {
+        "action": "push",
+        "from": [
+          3,
+          8
+        ],
+        "to": [
+          3,
+          9
+        ],
+        "pushed_to": [
+          3,
+          10
+        ]
+      },
+      "state_index": 0,
+      "timestamp": 1763153185.1597915
+    }
+  ]
+}

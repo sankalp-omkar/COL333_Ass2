@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "rows": 15,
+    "cols": 14,
+    "timestamp": 1763095607.445676,
+    "version": "1.0",
+    "winner": "square",
+    "final_scores": {
+      "circle": 0.0,
+      "square": 100.0
+    },
+    "game_duration": 17.883684873580933
+  },
+  "states": [],
+  "moves": []
+}
